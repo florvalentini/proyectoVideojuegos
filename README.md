@@ -1,5 +1,8 @@
-Proyecto Final de Programación II
-Profesor Alberto Cortez
+Proyecto Final de Programación II  
+Profesor Alberto Cortez  
+Alumna: Florencia Valentini
+
+
 
 Tecnologías utilizadas: 
 -JavaJDK v11.
